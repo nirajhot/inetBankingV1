@@ -1,0 +1,20 @@
+nirajhot/Hotwaniniraj11@
+
+https://github.com/nirajhot/inetBankingV1.git
+
+git init -- To create git
+
+git remote add origin "https://github.com/nirajhot/inetBankingV1.git"  -- To establish connection between git and github
+
+git status -- Status of file 
+
+git add -A  -- Add all uncommited files to staging area
+
+git config --gloabal user.name "nirajhot"
+
+git config --gloabal user.email "nchotwani24041992@gmail.com"
+
+git commit -m "" -- To commit files to local git from staging area
+
+git push -u origin master
+
