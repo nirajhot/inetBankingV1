@@ -17,4 +17,3 @@ git config --gloabal user.email "nchotwani24041992@gmail.com"
 git commit -m "" -- To commit files to local git from staging area
 
 git push -u origin master
-
