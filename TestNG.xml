@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="inetBankimgV1">
+	<test name="Banking App">
+		
+		<classes>
+			<!-- class name="com.inetBanking.testCases.TC_LoginTest_001" /> -->
+			<class name="com.inetBanking.testCases.TC_AddNewCustomer_002" />
+		</classes>
+	</test>
+</suite>
